@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Abdullah, and I'm a person who is quite fond of building programming related projects in my free time.\
+\
+I’m currently working on learning C++\
+Feel free to ask me about tricky programming problems.\
+You can reach out to me using my email given on my profile.\
+Fun fact: I started off using python, not C++ unlike most programmers in today's industry.
